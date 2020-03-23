@@ -1,0 +1,14 @@
+{
+  "name": "frontend-debug-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc",
+    "serve": "serve -p 8080"
+  },
+  "dependencies": {
+    "serve": "^11.3.0",
+    "typescript": "^3.8.3"
+  }
+}
